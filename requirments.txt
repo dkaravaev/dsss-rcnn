@@ -1,0 +1,10 @@
+tqdm
+numpy
+scipy
+pygpu
+matplotlib
+scikit-commpy
+sklearn
+theano
+keras==2.2.5
+jupyter
